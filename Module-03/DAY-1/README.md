@@ -54,35 +54,3 @@ public class Main {
 Thus the java Program to read input and print length of the string in java was executed successfully.
 
 
--	a) Create `Scanner` object `sc`
--	b) Read a line of text into `String` variable `str`
-4.	Print "The size of the String is " + `str.length()`
-5.	End
-
-
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a String and its Operations using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Sourcecode.java:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
-Thus the java Program to read input and print length of the string in java was executed successfully.
-
